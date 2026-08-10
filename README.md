@@ -48,29 +48,29 @@ Created a Claude Project with custom instructions covering who I am, tone prefer
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="./screenshots/claude-account.png" width="100%"><br>
+      <img src="./screenshots/Screenshot 2026-08-10 132145.png" width="100%"><br>
       <sub><b>Claude account</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="./screenshots/chatgpt-account.png" width="100%"><br>
+      <img src="./screenshots/Screenshot 2026-08-08 002740.png" width="100%"><br>
       <sub><b>ChatGPT account</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="./screenshots/academy-enrollment.png" width="100%"><br>
+      <img src="./screenshots/Screenshot 2026-08-10 132758.png" width="100%"><br>
       <sub><b>Academy enrollment</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="./screenshots/module1-complete.png" width="100%"><br>
+      <img src="./screenshots/Screenshot 2026-08-10 133027.png" width="100%"><br>
       <sub><b>Module 1 complete</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="./screenshots/claude-project.png" width="100%"><br>
+      <img src="./screenshots/Screenshot 2026-08-10 133401.png" width="100%"><br>
       <sub><b>Claude Project settings</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="./screenshots/claude-project-instructions.png" width="100%"><br>
+      <img src="./screenshots/Screenshot 2026-08-10 141420.png" width="100%"><br>
       <sub><b>Custom instructions</b></sub>
     </td>
   </tr>
