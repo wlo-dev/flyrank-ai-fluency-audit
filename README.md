@@ -8,7 +8,7 @@ Workflow audit for FlyRank's AI Fluency track (FL-01). Maps 15 recurring tasks a
 
 ## Overview
 
-This audit maps recurring tasks from my week (studies, FlyRoad internship, freelance design work, and personal projects) and classifies each based on where AI genuinely helps, where it should only assist with review, and where it should stay out entirely. This is the foundation for the AI Fluency track — the classifications and target tasks here carry forward into FL-02 through FL-04.
+This audit maps recurring tasks from my week (studies, FlyRank internship, freelance design work, and personal projects) and classifies each based on where AI genuinely helps, where it should only assist with review, and where it should stay out entirely. This is the foundation for the AI Fluency track — the classifications and target tasks here carry forward into FL-02 through FL-04.
 
 ---
 
