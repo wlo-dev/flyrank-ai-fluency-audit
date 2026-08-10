@@ -1,8 +1,8 @@
-
 # FL-01: Workflow Audit
 
 **Phase:** Setup
 **Author:** Willouby Chaguluka
+**Assignment:** FL-01, part of the AI Fluency track for my internship at FlyRank AI
 
 ## Overview
 
@@ -23,7 +23,7 @@ This audit maps recurring tasks from my week (studies, FlyRank internship, freel
 | 7 | Bible study reflection/notes | Just me | Personal, reflective — not something I want AI shaping |
 | 8 | Practicing drums / band setlist learning | Just me | Physical skill, no AI substitute |
 | 9 | Designing brand assets for Gontha (Illustrator/Photoshop) | Collaborate with AI | AI can brainstorm concepts/copy, but the actual design execution is my craft |
-| 10 | Writing FlyRoad weekly assignment reports/summaries | Delegate to AI with review | AI drafts the write-up from my notes, I check accuracy before submitting |
+| 10 | Writing FlyRank weekly assignment reports/summaries | Delegate to AI with review | AI drafts the write-up from my notes, I check accuracy before submitting |
 | 11 | Planning gym split/routine | Just me | Personal preference and body feedback, not something worth automating |
 | 12 | Scheduling/reminders for practice, gym, deadlines | Fully automate | Low stakes, mechanical, calendar just needs to run |
 | 13 | Researching new tools/frameworks before starting a project | Collaborate with AI | AI helps me scope options fast, but I decide what fits |
@@ -39,24 +39,42 @@ This audit maps recurring tasks from my week (studies, FlyRank internship, freel
 - [x] Anthropic Academy account — enrolled in *AI Fluency: Framework & Foundations*
 - [x] Module 1 completed
 
-**Evidence:**
-
-<!-- Add your screenshots below, e.g.: -->
-<!-- ![Claude account](./screenshots/claude-account.png) -->
-<!-- ![ChatGPT account](./screenshots/chatgpt-account.png) -->
-<!-- ![Academy enrollment](./screenshots/academy-enrollment.png) -->
-<!-- ![Module 1 complete](./screenshots/module1-complete.png) -->
-
----
-
 ## 3. Claude Project Setup
 
-Created a Claude Project with custom instructions covering who I am, tone preferences, and current goals (background, tone/working style, and active goals across FlyRoad, portfolio projects, and my degree).
+Created a Claude Project with custom instructions covering who I am, tone preferences, and current goals (background, tone/working style, and active goals across FlyRank, portfolio projects, and my degree).
 
-**Evidence:**
+## Evidence
 
-<!-- Add your screenshot below, e.g.: -->
-<!-- ![Claude Project settings](./screenshots/claude-project.png) -->
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="./screenshots/claude-account.png" width="100%"><br>
+      <sub><b>Claude account</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="./screenshots/chatgpt-account.png" width="100%"><br>
+      <sub><b>ChatGPT account</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="./screenshots/academy-enrollment.png" width="100%"><br>
+      <sub><b>Academy enrollment</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="./screenshots/module1-complete.png" width="100%"><br>
+      <sub><b>Module 1 complete</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="./screenshots/claude-project.png" width="100%"><br>
+      <sub><b>Claude Project settings</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="./screenshots/claude-project-instructions.png" width="100%"><br>
+      <sub><b>Custom instructions</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
