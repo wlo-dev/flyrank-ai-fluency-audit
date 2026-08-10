@@ -71,7 +71,7 @@ Created a Claude Project with custom instructions covering who I am, tone prefer
     </td>
     <td align="center" width="33%">
       <img src="./screenshots/Screenshot 2026-08-10 141420.png" width="100%"><br>
-      <sub><b>Custom instructions</b></sub>
+      <sub><b>ChatCPT Account</b></sub>
     </td>
   </tr>
 </table>
