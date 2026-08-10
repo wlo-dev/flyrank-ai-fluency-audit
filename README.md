@@ -53,7 +53,7 @@ Created a Claude Project with custom instructions covering who I am, tone prefer
     </td>
     <td align="center" width="33%">
       <img src="./screenshots/Screenshot 2026-08-08 002740.png" width="100%"><br>
-      <sub><b>ChatGPT account</b></sub>
+      <sub><b>AI fluency Certificate</b></sub>
     </td>
     <td align="center" width="33%">
       <img src="./screenshots/Screenshot 2026-08-10 132758.png" width="100%"><br>
