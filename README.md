@@ -70,7 +70,7 @@ Three recurring tasks I'll reuse across the next assignments, with measurable de
 **Classification:** Delegate to AI with review
 **Done well means:** AI identifies the root cause (e.g. which file/encoding is causing the leak) on the first or second attempt, the fix doesn't require me to manually redo git history more than once, and no API keys or secrets end up in a subsequent commit.
 
-### 2. Writing FlyRoad weekly assignment reports/summaries
+### 2. Writing FlyRank weekly assignment reports/summaries
 **Classification:** Delegate to AI with review
 **Done well means:** First draft captures the technical details accurately with zero factual errors about what I actually built, requires only light editing for voice (not a rewrite), and is ready to submit in under 15 minutes of my review time.
 
